@@ -19,7 +19,7 @@ public class MainMatrix {
 
 	public static void main(String[] args) {
 		
-		GeoApiContext context = new GeoApiContext.Builder().apiKey("AIzaSyC3bUPf9d79UqE1OCVq5WvH10prLFD8-c4").build();
+		GeoApiContext context = new GeoApiContext.Builder().apiKey("AIzaSyC3bUPf9d79UqE...").build();
 
 		String[] origins =
 		          new String[] {
